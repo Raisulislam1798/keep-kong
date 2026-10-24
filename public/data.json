@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Ahmed",
+    "picture": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+    "email": "sarah.ahmed@example.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": ["college", "close friend"],
+    "bio": "Met during university orientation. Always up for weekend coffee catchups and tech discussions.",
+    "goal": 14,
+    "next_due_date": "2026-10-17"
+  },
+  {
+    "id": 2,
+    "name": "Tanvir Hasan",
+    "picture": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+    "email": "tanvir.hasan@example.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["school", "gaming"],
+    "bio": "Childhood friend from high school. We play online games together every weekend.",
+    "goal": 7,
+    "next_due_date": "2026-10-23"
+  },
+  {
+    "id": 3,
+    "name": "Nusrat Jahan",
+    "picture": "https://images.unsplash.com/photo-1534528741775-53994a69daeb",
+    "email": "nusrat.jahan@example.com",
+    "days_since_contact": 12,
+    "status": "almost due",
+    "tags": ["work", "designer"],
+    "bio": "Former teammate from my first UI design job. Shares amazing book recommendations.",
+    "goal": 14,
+    "next_due_date": "2026-10-23"
+  },
+  {
+    "id": 4,
+    "name": "Arafat Rahman",
+    "picture": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e",
+    "email": "arafat.rahman@example.com",
+    "days_since_contact": 45,
+    "status": "overdue",
+    "tags": ["gym", "fitness"],
+    "bio": "Met at the local gym. Partner for workout routines and health tips.",
+    "goal": 30,
+    "next_due_date": "2026-10-06"
+  },
+  {
+    "id": 5,
+    "name": "Anika Chowdhury",
+    "picture": "https://images.unsplash.com/photo-1517841905240-472988babdf9",
+    "email": "anika.c@example.com",
+    "days_since_contact": 2,
+    "status": "on-track",
+    "tags": ["college", "study group"],
+    "bio": "Study partner for programming and Web development projects.",
+    "goal": 7,
+    "next_due_date": "2026-10-26"
+  },
+  {
+    "id": 6,
+    "name": "Rohan Karim",
+    "picture": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61",
+    "email": "rohan.karim@example.com",
+    "days_since_contact": 13,
+    "status": "almost due",
+    "tags": ["travel", "close friend"],
+    "bio": "Backpacking buddy. We explored Sylhet and Cox's Bazar together last year.",
+    "goal": 14,
+    "next_due_date": "2026-10-22"
+  },
+  {
+    "id": 7,
+    "name": "Mehnaz Islam",
+    "picture": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1",
+    "email": "mehnaz.i@example.com",
+    "days_since_contact": 60,
+    "status": "overdue",
+    "tags": ["neighborhood", "childhood"],
+    "bio": "Grew up in the same neighborhood. Currently studying abroad.",
+    "goal": 30,
+    "next_due_date": "2026-09-21"
+  },
+  {
+    "id": 8,
+    "name": "Zubair Hossain",
+    "picture": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6",
+    "email": "zubair.h@example.com",
+    "days_since_contact": 1,
+    "status": "on-track",
+    "tags": ["tech", "developer"],
+    "bio": "Open-source contributor friend. We regularly exchange coding tips and project ideas.",
+    "goal": 14,
+    "next_due_date": "2026-11-03"
+  }
+]

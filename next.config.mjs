@@ -5,8 +5,19 @@ const nextConfig = {
     agentFeedback: true,
   },
   cacheComponents: true,
-  partialPrefetching: true,
+  partialPrefetch: true,
   reactCompiler: true,
+  
+
+  images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'images.unsplash.com',
+      },
+    ],
+  },
+
   turbopack: {
     rules: {
       "*.css": {
